@@ -3,7 +3,7 @@
 
 ***
 # Cloudflare Change IPv6 Setting
-用于关闭或开启 Cloudflare CDN 的 IPv6
+用于关闭或开启 Cloudflare CDN 的 IPv6 解析结果
 
 > 不要指望指望关闭IPv6之后，那些开了IPv6的用户能正常解析。IPv6解析不了的问题就在连接DNS服务器用的是IPv6，而非域名解析结果用IPv6。  
 > 下载py文件还是太麻烦了，想要网页版？对不起，Cloudflare API 里并没有允许跨域访问，也就是说相关操作必须直接在电脑上请求。  
